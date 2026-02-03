@@ -1,0 +1,10 @@
+results/
+scratch/
+logs/
+*.bam
+*.bai
+*.vcf
+*.vcf.gz
+*.tbi
+*.fastq
+*.fastq.gz
