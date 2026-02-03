@@ -1,1 +1,6 @@
+FastQC
+Cutadapt
+BWA
+SAMtools
+GATK
 
