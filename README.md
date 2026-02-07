@@ -44,5 +44,4 @@ This project demonstrates production-style HPC workflows for transforming paired
 - GATK 
 
 
-## 📂 Repository Structure
 
